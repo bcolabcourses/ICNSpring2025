@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2024-02-22T4:00:00+4:30
-title: 'Homework #1'
+title: 'Homework #1 (Coming soon)'
 pdf: /static_files/assignments/HW#1.pdf
 attachment: /static_files/assignments/HW#1.zip
 solutions: /static_files/assignments/HW1Solution.pdf
