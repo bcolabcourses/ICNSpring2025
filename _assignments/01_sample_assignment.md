@@ -10,4 +10,6 @@ due_event:
     date: 2024-03-22T4:00:00+4:30
     description: 'Assignment #1 due'
 ---
-This is a sample assignment.
+Homework #1 is coming soon...
+In this assignment, we will explore the fundamental concepts of probability theory and how it relates to the field of
+engineering.
