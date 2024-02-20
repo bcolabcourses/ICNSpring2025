@@ -4,7 +4,7 @@ title: Materials
 permalink: /materials/
 ---
 
-[//] #{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+[comment] #{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
 ## Book
 
