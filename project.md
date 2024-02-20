@@ -3,4 +3,4 @@ layout: page
 title: Project
 permalink: /project/
 ---
-Describe Final project.
+Details will be shared by the end of the month of Esfand.
