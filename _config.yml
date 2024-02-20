@@ -27,7 +27,7 @@ baseurl: "/ISIspr2024"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
-schoolurl: "https://ece.ut.ac.ir"
+schoolurl: "https://bcolab.ut.ac.ir/"
 #twitter_username: username 
 
 address: |
