@@ -1,14 +1,34 @@
 # Site settings
-course_name: Engineering Probability and Statistics
-course_description: "This course is about probability and statistics in engineering"
-course_semester: "Spring 2023"
+course_name: Introduction to Statistical Inference
+course_description: "Statistical Inference is a fundamental and a very
+important subject in the field of mathematics and
+statistics , so essential that it significantly informs and
+enhances disciplines such as Machine Learning. The
+course provides students with the necessary tools and
+techniques for analyzing collected data and utilizing
+statistics in real and practical decision-making. This
+course enables students to to evaluate hypotheses
+and conduct hypothesis testing. It emphasizes
+generating valid estimates, understanding significance,
+effect sizes, and the power of tests to derive insightful
+conclusions from data, enhancing data-driven
+inference. Addditionally, it also touches upon concepts
+of experimental design and Bayesian Inference. The
+course is designed to reduce the stress of grades,
+paving the way for a deep exploration of statistical
+inference. It encourages students to delve into its
+diverse aspects with the passion and curiosity of a data
+scientist, applicable in in various components of social
+sciences, natural sciences, finance, engineeing and
+many many other fields."
+course_semester: "Spring 2024"
 
-baseurl: "/EPSspr2023"
+baseurl: "/ISIspr2024"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
 schoolurl: "https://ece.ut.ac.ir"
-twitter_username: username 
+#twitter_username: username 
 
 address: |
     School of Electrical and Computer Engineering
