@@ -1,9 +1,9 @@
 ---
 type: assignment
 date: 2024-02-22T4:00:00+4:30
-title: 'Homework #1 (Coming soon)'
-pdf: static_files/assignments/ISI Homework #1 V1.pdf
-attachment: static_files/assignments/prob10.csv
+title: 'Homework #1'
+pdf: /static_files/assignments/ISI_Homework_#1_V1.pdf
+attachment: /static_files/assignments/prob10.csv
 solutions: /static_files/assignments/HW1Solution.pdf
 due_event: 
     type: due
