@@ -7,7 +7,7 @@ attachment: /static_files/assignments/prob10.csv
 solutions: /static_files/assignments/HW1Solution.pdf
 due_event: 
     type: due
-    date: 2024-03-19T23:59:00
+    date: 2024-03-19T4:23:50+4:30
     description: 'Assignment #1 due'
 ---
 In this assignment, we will explore the fundamental concepts of probability theory and how it relates to the field of
