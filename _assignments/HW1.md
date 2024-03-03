@@ -10,6 +10,5 @@ due_event:
     date: 2024-03-19T23:59:00
     description: 'Assignment #1 due'
 ---
-Homework #1 is coming soon...
 In this assignment, we will explore the fundamental concepts of probability theory and how it relates to the field of
 engineering.
