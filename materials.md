@@ -4,7 +4,8 @@ title: Materials
 permalink: /materials/
 ---
 
-
+## Guidelines
+*[**here**](https://drive.google.com/file/d/1XwXDNJSL_0sMo4831qzYzOLRu2KPAD7N/view?usp=sharing)
 ## Book
 
 * John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition 
