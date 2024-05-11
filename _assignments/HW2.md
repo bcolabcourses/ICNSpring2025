@@ -4,7 +4,7 @@ date: 2024-04-08T4:00:00+4:30
 title: 'Homework #2 Part 1'
 pdf: /static_files/assignments/ISIHomework2.pdf
 attachment: 
-solutions: /static_files/assignments/HW1Solution.pdf
+solutions: /static_files/assignments/ISIHomework2Part1Solution.pdf
 due_event: 
     type: due
     description: 'Assignment #2 due'
