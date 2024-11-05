@@ -3,7 +3,7 @@ type: assignment
 date: 2024-11-05T4:00:00+4:30
 title: 'Homework #2'
 pdf: /static_files/assignments/ISI2024Homework2.pdf
-attachment: /static_files/assignments/presidentpolls.csv
+attachment: /static_files/assignments/2016-general-election-trump-vs-clinton.csv
 solutions: /static_files/assignments/ISI2024Homework2Solution.pdf
 due_event: 
     type: due
