@@ -1,8 +1,8 @@
 ---
 type: assignment
-date: 2024-04-12T4:00:00+4:30
+date: 2024-10-12T4:00:00+4:30
 title: 'Homework #1'
-pdf: /static_files/assignments/ISIHomework1.pdf
+pdf: /static_files/assignments/ISI2024Homework1.pdf
 attachment: 
 solutions: 
 due_event: 
