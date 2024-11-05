@@ -21,9 +21,9 @@ diverse aspects with the passion and curiosity of a data
 scientist, applicable in in various components of social
 sciences, natural sciences, finance, engineeing and
 many many other fields."
-course_semester: "Spring 2024"
+course_semester: "Fall 2024"
 
-baseurl: "/ISIspr2024"
+baseurl: "/ISIfall2024"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
