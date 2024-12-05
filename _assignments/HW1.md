@@ -4,7 +4,7 @@ date: 2024-10-12T4:00:00+4:30
 title: 'Homework #1'
 pdf: /static_files/assignments/ISI2024Homework1.pdf
 attachment: 
-solutions: 
+solutions: /static_files/assignments/ISI2024Homework1Solution.pdf
 due_event: 
     type: due
     description: 'Assignment #1 due'
