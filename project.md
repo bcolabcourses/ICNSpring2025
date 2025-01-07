@@ -48,9 +48,11 @@ Below is a list of sample papers and datasets that could be useful for your proj
 - [Springer: AI in Structural Analysis](https://link.springer.com/article/10.1007/s00521-022-07049-z)
 - [ArXiv: Transformer Models for Forecasting](https://arxiv.org/pdf/2203.04383v1.pdf)
 
----
+
 
 Feel free to explore these resources and use them as inspiration or as datasets for your project analysis. Just so you know, if two students happen to select the same dataset, priority will be given to the student whose proposal is accepted first.
+
+---
 
 ## Presentation Suggestions
 
