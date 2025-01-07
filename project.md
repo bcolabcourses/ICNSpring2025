@@ -50,4 +50,19 @@ Below is a list of sample papers and datasets that could be useful for your proj
 
 ---
 
-Feel free to explore these resources and use them as inspiration or as datasets for your project analysis. Please note that if two students happen to select the same dataset, priority will be given to the student whose proposal is accepted first.
+Feel free to explore these resources and use them as inspiration or as datasets for your project analysis. Just so you know, if two students happen to select the same dataset, priority will be given to the student whose proposal is accepted first.
+
+## Presentation Suggestions
+
+For the project presentation, we recommend keeping it simple, academic, and professional. The goal is to clearly convey your key findings, methods, and conclusions without overloading your slides.
+
+Adopting this style will save you time and energy, allowing you to focus on presenting your valuable work effectively. It’s not about adding unnecessary effort, but about highlighting the substance of your work in the clearest way possible. This approach is designed to clarify your work, not to impose a format that could cost you grades.
+
+If you're looking for inspiration, **ICLR presentations** are excellent examples of effective academic presentations. Here’s one example you can check out:  
+[ICLR 2023 Oral Presentation Example](https://iclr.cc/virtual/2023/oral/12637)
+
+You can also explore other presentations from ICLR's 2023 conference for additional ideas:  
+[ICLR 2023 Presentations](https://iclr.cc/virtual/2023/oral/12637)
+
+Remember, elegance and clarity go a long way in making your work stand out!
+
