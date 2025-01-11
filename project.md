@@ -34,7 +34,7 @@ Below is a list of sample papers and datasets that could be useful for your proj
 ### Economic and Social Studies
 - [Economic Structures and Growth Analysis](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-020-00220-6)
 - [A Comparative Study on Crime in Denver City](https://www.semanticscholar.org/paper/A-Comparative-Study-on-Crime-in-Denver-City-Based-Ratul/0d603a721a8321e12eb56859ee9ebecd923b70e0)
-- [Analyzing the Impact of COVID-19 on Global Economies](https://www.sciencedirect.com/science/article/pii/S0960982222004055?ref=pdf_download&fr=RR-2&rr=83c840246a02992c)
+- [The global economic impacts of the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0264999323003632#ec-research-data)
 
 ### Health and Medical Studies
 - [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
