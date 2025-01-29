@@ -4,7 +4,7 @@ date: 2024-11-26T4:00:00+4:30
 title: 'Homework #3'
 pdf: /static_files/assignments/ISI2024Homework3.pdf
 attachment: 
-solutions: 
+solutions: /static_files/assignments/ISI2024Homework3Solution.pdf
 due_event: 
     type: due
     description: 'Assignment #3 due'
