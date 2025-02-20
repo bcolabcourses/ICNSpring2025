@@ -3,7 +3,7 @@ instructor:
     profile_pic: /_images/pp/dehaqani.jpg
     webpage: https://ece.ut.ac.ir/~dehaqani
 
-teaching_assistant:
-  - name: Reza Salamat
-    profile_pic: /_images/pp/rezasalamat.jpg
-    webpage: mailto:ar.salamat@yahoo.com
+# teaching_assistant:
+#   - name: Reza Salamat
+#     profile_pic: /_images/pp/rezasalamat.jpg
+#     webpage: mailto:ar.salamat@yahoo.com
