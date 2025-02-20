@@ -1,29 +1,31 @@
 # Site settings
-course_name: Introduction to Statistical Inference
-course_description: "Statistical Inference is a fundamental and a very
-important subject in the field of mathematics and
-statistics , so essential that it significantly informs and
-enhances disciplines such as Machine Learning. The
-course provides students with the necessary tools and
-techniques for analyzing collected data and utilizing
-statistics in real and practical decision-making. This
-course enables students to to evaluate hypotheses
-and conduct hypothesis testing. It emphasizes
-generating valid estimates, understanding significance,
-effect sizes, and the power of tests to derive insightful
-conclusions from data, enhancing data-driven
-inference. Addditionally, it also touches upon concepts
-of experimental design and Bayesian Inference. The
-course is designed to reduce the stress of grades,
-paving the way for a deep exploration of statistical
-inference. It encourages students to delve into its
-diverse aspects with the passion and curiosity of a data
-scientist, applicable in in various components of social
-sciences, natural sciences, finance, engineeing and
-many many other fields."
-course_semester: "Fall 2024"
+course_name: Introduction to Cognitive Neuroscience
+course_description: "Cognitive Neuroscience is an exciting and rapidly 
+evolving eld that bridges the gap between 
+neuroscience, psychology, and computational 
+modeling. It offers deep insights into how the brain 
+enables perception, thought, learning, and behavior. 
+This course provides a foundational understanding of 
+neural systems, their structure and function, and the 
+methods used to study the brain—from cellular and 
+molecular mechanisms to large-scale network 
+dynamics. Students will explore how the brain encodes 
+and processes information, spanning the intricate 
+dynamics of neural activity, sensory representations, 
+and motor control. The course goes into fundamental 
+neural computations, uncovering how biological and 
+theoretical models help explain cognition, perception, 
+and action. In parallel, we have hands-on workshops, 
+including neural data analysis (spikes, LFPs, EEG), fMRI 
+interpretation, and cognitive modeling. This year, we 
+introduce NeuroAI, to the curriculum where we dive 
+into brain-inspired architectures, the synergy between 
+deep learning and cognitive science, and how AI can 
+help us understand, model, and predict neural and 
+cognitive processes."
+course_semester: "Spring 2025"
 
-baseurl: "/ISIfall2024"
+baseurl: "/ICNspring2025"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
