@@ -25,7 +25,7 @@ help us understand, model, and predict neural and
 cognitive processes."
 course_semester: "Spring 2025"
 
-baseurl: "/ICNspring2025"
+baseurl: "/ICNSpring2025"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
