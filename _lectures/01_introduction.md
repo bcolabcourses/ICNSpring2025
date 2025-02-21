@@ -2,9 +2,9 @@
 type: lecture
 date: 2024-03-03T8:00:00+4:30
 title: Lecture One
-tldr: "Intro to Statistical Inference, What it is & Why it's important and what's to come in the course."
-thumbnail: /static_files/presentations/lec1.png
+tldr: "Intro to Cognitive Neuroscience, Some of its hisotyr, What it is & Why it's important and what's to come in the course."
+thumbnail: /static_files/presentations/lec0.png
 links: 
-    - url: /static_files/presentations/lec1.pdf
+    - url: /static_files/presentations/00IIntroduction (2023).pdf
       name: slides
 ---
