@@ -23,7 +23,7 @@ This page contains essential resources and materials for the course. Here, you'l
 
 📄 **Author:** Dr. Gokhan Bingol  
 📅 **Date:** October 18, 2024  
-🔗 **Download:** [**Click Here**](Statistical%20Tests%20for%20Engineers%20with%20Python.pdf)  
+🔗 **Download:** [**Click Here**](https://bcolabcourses.github.io/ICNSpring2025/static_files/Statistical%20Tests%20for%20Engineers%20with%20Python.pdf)  
 
 ### **Description:**
 The document **"Statistical Tests for Engineers with Python"** provides a structured guide on applying statistical methods in Python for engineering and data science tasks. Covering key topics such as:
