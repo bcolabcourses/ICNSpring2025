@@ -1,0 +1,35 @@
+{
+  "title": "My Combined Questionnaire",
+  "sections": [
+    {
+      "name": "Big Five",
+      "items": [
+        {
+          "id": "BF1",
+          "prompt": "I see myself as someone who is talkative.",
+          "scale": "Extraversion",
+          "reverse_scored": false
+        },
+        {
+          "id": "BF2",
+          "prompt": "I tend to find fault with others.",
+          "scale": "Agreeableness",
+          "reverse_scored": true
+        }
+        // add more items...
+      ]
+    },
+    {
+      "name": "RIASEC",
+      "items": [
+        {
+          "id": "RIA1",
+          "prompt": "I like to work on cars (Realistic).",
+          "scale": "R",
+          "reverse_scored": false
+        }
+        // more items...
+      ]
+    }
+  ]
+}
