@@ -19,6 +19,18 @@ This page contains essential resources and materials for the course. Here, you'l
 
 ---
 
+## Report Templates
+
+We provide two report templates (not mandatory, but **strongly suggested**) for submitting your assignments:
+
+- [**Word Template**](https://bcolabcourses.github.io/ICNSpring2025/static_files/REPORT_TEMPLATE_change_this_name_to_HW#_Lastname_StudentNumber.docx)  
+
+- [**LaTeX Template**](https://bcolabcourses.github.io/ICNSpring2025/static_files/REPORT_TEMPLATE_change_this_name_to_HW#_Lastname_StudentNumber.zip)
+
+These templates help maintain a consistent format for all submissions. Simply **rename** the file to match your homework number, last name, and student ID, then either fill out the DOCX or compile the LaTeX version. If you already have your own preferred report style, you may continue using it after asking permission from the homework team, but we recommend using this simple template for clarity and uniformity.
+
+---
+
 ## **Statistical Tests for Engineers with Python**
 
 📄 **Author:** Dr. Gokhan Bingol  
