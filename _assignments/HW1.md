@@ -3,7 +3,7 @@ type: assignment
 date: 2025-03-19T4:00:00+4:30
 title: 'Homework #1'
 pdf: /static_files/assignments/HW1_ICNSpr2025.pdf
-attachment: /static_files/assignments/Data.zip
+attachment: /static_files/assignments/Data_with_Psychopy.zip
 solutions: 
 due_event: 
     type: due
