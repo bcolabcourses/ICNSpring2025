@@ -3,7 +3,7 @@ type: assignment
 date: 2025-04-19T04:00:00+04:30
 title: "Homework #2"
 pdf: /static_files/assignments/HW2_ICNSpr2025.pdf
-attachment: /static_files/assignments/HW2_files/SRC
+attachment: /static_files/assignments/Data_with_Psychopy.zip
 solutions: 
 due_event: 
   type: due
@@ -13,4 +13,4 @@ due_event:
 
 Dive deep into the world of single-neuron dynamics, using powerful mathematical and computational tools to decode neural activity. Explore electrophysiological data, uncover patterns, and interpret what neurons tell us about cognition and brain function. Embrace the math, but always keep the bigger neuroscientific picture in sight!
 
-sorting dataset : " https://drive.google.com/file/d/1TWiaLBifUdOEtxXfl0GhATQFy8kP27Ek/view?usp=sharing "
+
