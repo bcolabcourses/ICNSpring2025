@@ -5,9 +5,9 @@ title: 'Homework #2'
 pdf: /static_files/assignments/HW2_ICNSpr2025.pdf
 attachment:
   - name: "Sorting dataset (.mat)"
-    path: [/static_files/assignments/data_hw2.csv](https://drive.google.com/file/d/1TWiaLBifUdOEtxXfl0GhATQFy8kP27Ek/view?usp=sharing)
+    path: https://drive.google.com/file/d/1TWiaLBifUdOEtxXfl0GhATQFy8kP27Ek/view?usp=sharing
   - name: "Starter Code (MATLAB & Python)"
-    path: /static_files/assignments/starter_hw2.m
+    path: 
 solutions: 
 due_event: 
     type: due
