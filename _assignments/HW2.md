@@ -3,7 +3,7 @@ type: assignment
 date: 2025-04-19T04:00:00+04:30
 title: "Homework #2"
 pdf: /static_files/assignments/HW2_ICNSpr2025.pdf
-attachment: /static_files/assignments/HW2_files/SRC
+attachment: static_files/assignments/SRC.rar
 solutions: 
 due_event: 
   type: due
