@@ -1,10 +1,10 @@
 ---
 type: lecture  
-date: 2025-02-29T08:00:00+04:30  
-title: "Lecture Three"  
-tldr: "Introduces psychophysics as the quantitative study of perception, emphasizing how physical stimuli relate to psychological experience. Discusses psychometric functions, threshold detection, classical methods of psychophysics (method of constant stimuli, limits, and adjustment), adaptive techniques, and psychometric curve fitting."
+date: 2025-03-01T08:00:00+4:30  
+title: "Lecture Three: Psychophysics"  
+tldr: "Introduces psychophysics, examining how physical stimuli are translated into psychological experiences. Covers sensory thresholds, Weber's Law, Fechner's Law, signal detection theory, and methods to quantify perception, emphasizing their application to cognitive neuroscience."  
 thumbnail: "/static_files/presentations/lec3.png"  
-links:
+links:  
   - url: "/static_files/presentations/03Psychophysics.pdf"  
-    name: "slides"
----  
+    name: "slides"  
+---
