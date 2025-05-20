@@ -3,7 +3,7 @@ type: assignment
 date: 2025-04-19T04:00:00+04:30
 title: "Homework #2"
 pdf: /static_files/assignments/HW2_ICNSpr2025.pdf
-attachment: /static_files/assignments/HW2_files/cl_data.mat
+attachment: /static_files/assignments/cl_data.mat
 due_event: 
   type: due
   description: "Assignment #2 due"
