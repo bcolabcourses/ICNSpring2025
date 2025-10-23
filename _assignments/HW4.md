@@ -6,5 +6,6 @@ pdf: /static_files/assignments/HW4_CN_fMRI_HandsOn.ipynb
 due_event: 
   type: due
   description: "Assignment #4 due"
+  data: 
 ---
 
